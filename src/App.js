@@ -30,7 +30,7 @@ export const getRoundOutcome = userChoice => {
 export const CHOICES = {
   scissors: {
     name: "scissors",
-    url: "http://www.pngmart.com/files/1/Scissors-PNG-Pic.png"
+    url: "https://shop.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_15284.jpg"
   },
   paper: {
     name: "paper",
@@ -39,7 +39,7 @@ export const CHOICES = {
   rock: {
     name: "rock",
     url:
-      "https://opengameart.org/sites/default/files/forum-attachments/very%20simple%20rock_0.png"
+      "http://pngimg.com/uploads/stone/stone_PNG13622.png"
   }
 };
 function App() {
